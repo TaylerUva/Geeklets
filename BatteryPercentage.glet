@@ -33,7 +33,7 @@ else
 	fi
 fi  </string>
 	<key>DisplayID</key>
-	<integer>2077750333</integer>
+	<integer>2077748985</integer>
 	<key>DropShadow</key>
 	<false/>
 	<key>FailureImage</key>
@@ -130,7 +130,7 @@ fi  </string>
 	<key>FontSize</key>
 	<real>14</real>
 	<key>GeekletFrame</key>
-	<string>{{1330, 884}, {45, 16}}</string>
+	<string>{{-65, 0}, {45, 16}}</string>
 	<key>HasShadow</key>
 	<false/>
 	<key>Identifier</key>
@@ -142,7 +142,7 @@ fi  </string>
 	<key>RefreshInterval</key>
 	<integer>5</integer>
 	<key>RelativePosition</key>
-	<integer>1</integer>
+	<integer>9</integer>
 	<key>SetLocale</key>
 	<true/>
 	<key>StatusImagePosition</key>
